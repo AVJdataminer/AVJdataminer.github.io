@@ -1,21 +1,21 @@
-## Welcome to My Page
 
 https://www.linkedin.com/in/aiden-johnson-5b883929/
 
-Experience
+## Experience
 
-CVS Health, Woonsocket, RI
+### CVS Health, Woonsocket, RI
 
-Data Scientist, Machine Learning Team // January 2018 - Present
+#### Data Scientist, Machine Learning Team // January 2018 - Present
 
 • Develop machine learning models for Minute Clinic scheduling optimization.
 
 Project planning, development, documentation and communicationwith Minute Clinic business partners and across the CVS organization.
 Facilitate the transition of modeling and data to Hadoop, increasing efficiency and reducing model run times.
 Operational machine learning models through pilot testing and validation.
-Lincoln Financial Group, Hartford, CT
 
-Data Scientist // December 2016 - January 2018
+### Lincoln Financial Group, Hartford, CT
+
+#### Data Scientist // December 2016 - January 2018
 
 • Developed and implemented Machine Learning algorithms for data driven cross sell and customer retention business activities in Python and R.
 
@@ -29,9 +29,9 @@ Data Scientist // December 2016 - January 2018
 
 • Supported the development & implementation of a business analytic framework to include forward-looking metrics and insights.
 
-State of Montana, Dept. of Revenue, Bozeman, MT
+### State of Montana, Dept. of Revenue, Bozeman, MT
 
-Statistical Modeler // August 2014 – August 2016
+#### Statistical Modeler // August 2014 – August 2016
 
 • Provided technical expertise by developing, specifying and calibrating multivariate regression models for mass appraisal of residential and commercial properties in SAS and R.
 
@@ -61,9 +61,9 @@ Machine Learning Research Assistant // June 2011 – August 2014
 
 • Provided a multitude of graduate students with statistical and spatial analyses assistance; including project development, interpretation of results and writing data processing code.
 
-Red Castle Resources, INC, Salt Lake City, UT
+### Red Castle Resources, INC, Salt Lake City, UT
 
-Remote Sensing Data Scientist// May 2010 – May 2011
+#### Remote Sensing Data Scientist// May 2010 – May 2011
 
 • Implemented classification of stacks of spatial data using a support vector machine algorithm in Python and Erdas Imagine; drafted associated documentation and performed accuracy assessments on results.
 
@@ -79,9 +79,9 @@ Remote Sensing Data Scientist// May 2010 – May 2011
 
 • Researched and published a manual for carbon stock accounting via satellite imagery processing methods.
 
-USDA Forest Service, Northern Regional office, Missoula, MT
+### USDA Forest Service, Northern Regional office, Missoula, MT
 
-Remote Sensing Data Science Analyst // December 2008 – May 2010
+#### Remote Sensing Data Science Analyst // December 2008 – May 2010
 
 • Developed automated image data pre-processing scripts in ARC Macro Language (AML)
 
@@ -93,23 +93,31 @@ Remote Sensing Data Science Analyst // December 2008 – May 2010
 
 • Applied an artificial neural network to classify satellite imagery into various forest species classes.
 
-US Army, Ireland Army Community Hospital, Fort Knox, KY
+### US Army, Ireland Army Community Hospital, Fort Knox, KY
 
-Assistant NCO In-Charge // December 2007 – December 2008
+#### Assistant NCO In-Charge // December 2007 – December 2008
 
-USDA Forest Service, Northern Regional Office, Missoula, MT
+### USDA Forest Service, Northern Regional Office, Missoula, MT
 
-Remote Sensing Data Technician // June 2007 – December 2007
+#### Remote Sensing Data Technician // June 2007 – December 2007
 
-Education
+---
 
-Montana State University, Bozeman, MT
+## Education
 
-M.S. in Environmental Science and Applied Statistics // 2014
+### Montana State University, Bozeman, MT
+
+#### M.S. in Environmental Science and Applied Statistics // 2014
 
 Thesis: "Scaling and Uncertainty in Landsat Remote Sensing of Biophysical Attributes"
 
-University of Montana, Missoula, MT
+### University of Montana, Missoula, MT
 
-B.S. in Forest Resource Management and GIS // 2010
+#### B.S. in Forest Resource Management and GIS // 2010
+
+---
+
+## Projects
+
+## Publications
 
