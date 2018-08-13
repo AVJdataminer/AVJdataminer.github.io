@@ -1,5 +1,8 @@
+LinkedIn:
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aiden-johnson-5b883929"><a class="LI-simple-link" href='https://www.linkedin.com/in/aiden-johnson-5b883929?trk=profile-badge'>Aiden Johnson</a></div>
 
-https://www.linkedin.com/in/aiden-johnson-5b883929/
+<a href="https://twitter.com/aidenvjohnson?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aidenvjohnson</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## Experience
 
@@ -121,16 +124,16 @@ Thesis: “Scaling and Uncertainty in Landsat Remote Sensing of Biophysical Attr
 GPA: 3.8
 
 Awards: 
-•	Graduate Student Teaching Award of Merit: 2013
-•	Montana Water Center Student Fellowship: 2013; $2,000
-•	Montana Institute on Ecosystems Graduate Fellow: 2013; $15,000
-•	Montana Institute on Ecosystems Graduate Fellow: 2012; $15,000
+•	Graduate Student Teaching Award of Merit: 2013 . 
+•	Montana Water Center Student Fellowship: 2013; $2,000 . 
+•	Montana Institute on Ecosystems Graduate Fellow: 2013; $15,000 . 
+•	Montana Institute on Ecosystems Graduate Fellow: 2012; $15,000 . 
 
-Presentations:
-•	Northwest Scientific Association: 2014
-•	Montana Section of the American Water Resources Association: 2013
-•	Montana EPScoR/Institute on Ecosystems: 2013
-•	American Geophysical Union (AGU): 2012, 2013
+Presentations:  
+•	Northwest Scientific Association: 2014 . 
+•	Montana Section of the American Water Resources Association: 2013 . 
+•	Montana EPScoR/Institute on Ecosystems: 2013 . 
+•	American Geophysical Union (AGU): 2012, 2013 . 
 
 ### University of Montana, Missoula, MT
 
@@ -142,6 +145,12 @@ Presentations:
 
 ### Squeaky R package for data cleaning a wrangling tasks for data science
         https://github.com/AVJdataminer/Squeaky
+	
+### Python script to create csv timesheet from Google Calendar
+	https://github.com/AVJdataminer/Gtools
+	
+### R scripts to create surface radiation components of evapotranspiration from Landsat Satellite data
+	https://github.com/AVJdataminer/Landsat_ET_Rtools
 
 ---
 
