@@ -146,77 +146,96 @@ Presentations:
 ---
 
 ## Publications
-%0 Journal Article
-%T Temperature, heat flux, and reflectance of common subarctic mosses and lichens under field conditions: might changes to community composition impact climate-relevant surface fluxes?
-%A Stoy, Paul C
-%A Street, Lorna E
-%A Johnson, Aiden V
-%A Prieto-Blanco, Ana
-%A Ewing, Stephanie A
-%J Arctic, antarctic, and alpine research
-%V 44
-%N 4
-%P 500-508
-%@ 1523-0430
-%D 2012
-%I Taylor & Francis
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="htmlExportStyleSheet.css" />
 
-%0 Thesis
-%T Scaling and uncertainty in landsat remote sensing of biophysical attributes
-%A Johnson, Aiden Vincent
-%D 2015
-%I Montana State University
+<title></title> 
+</head>
 
+<body>
+<div class="content">
+<h1></h1>
+<dl>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Evapotranspiration from a winter wheat field: seasonal patterns and implications for scaling</span><br />
+	<span class="Author">E. Harris and A. Johnson and W. Sigler and S. Ewing and P. Stoy</span><br />
+	<span class="Journal">AGU Fall Meeting Abstracts</span>&nbsp;
+	<span class="Volume"></span>&nbsp;
+	<span class="Pages"></span>&nbsp;
+	(<span class="Date">2013</span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Quantifying the uncertainty of Landsat tm derived energy balance parameters in the discontinuous permafrost zone: A Monte Carlo approach</span><br />
+	<span class="Author">A. Johnson and P. Stoy and S. Ewing</span><br />
+	<span class="Journal">AGU Fall Meeting Abstracts</span>&nbsp;
+	<span class="Volume"></span>&nbsp;
+	<span class="Pages"></span>&nbsp;
+	(<span class="Date">2013</span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Scaling and uncertainty in landsat remote sensing of biophysical attributes</span><br />
+	<span class="Author">A. V. Johnson</span><br />
+	<span class="Journal"></span>&nbsp;
+	<span class="Volume"></span>&nbsp;
+	<span class="Pages"></span>&nbsp;
+	(<span class="Date">2015</span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Scaling approaches for improving estimates of biogeochemical cycling in spatially heterogeneous ecosystems</span><br />
+	<span class="Author">P. C. Stoy and A. V. Johnson and N. Brunsell and T. Quaife</span><br />
+	<span class="Journal"></span>&nbsp;
+	<span class="Volume"></span>&nbsp;
+	<span class="Pages"></span>&nbsp;
+	(<span class="Date"></span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Temperature, heat flux, and reflectance of common subarctic mosses and lichens under field conditions: might changes to community composition impact climate-relevant surface fluxes?</span><br />
+	<span class="Author">P. C. Stoy and L. E. Street and A. V. Johnson and A. Prieto-Blanco and S. A. Ewing</span><br />
+	<span class="Journal">Arctic, antarctic, and alpine research</span>&nbsp;
+	<span class="Volume">44</span>&nbsp;
+	<span class="Pages">500--508</span>&nbsp;
+	(<span class="Date">2012</span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">The impacts of mountain pine beetle disturbance on the energy balance of snow during the melt period</span><br />
+	<span class="Author">C. M. Welch and P. C. Stoy and F. A. Rains and A. V. Johnson and B. L. McGlynn</span><br />
+	<span class="Journal">Hydrological Processes</span>&nbsp;
+	<span class="Volume">30</span>&nbsp;
+	<span class="Pages">588--602</span>&nbsp;
+	(<span class="Date">2016</span>)<br />
+	<div class="Abstract"></div>
+</dd>
+<dt class="Key" id="cite-key">cite-key</dt>
+<dd class="Pub">
+	<span class="Title">Tracking Spatial and Temporal Changes in the Discontinuous Permafrost Zone using Multi-Resolution Analysis</span><br />
+	<span class="Author">A. Johnson and P. Stoy and N. Brunsell and S. Ewing</span><br />
+	<span class="Journal">AGU Fall Meeting Abstracts</span>&nbsp;
+	<span class="Volume"></span>&nbsp;
+	<span class="Pages"></span>&nbsp;
+	(<span class="Date">2012</span>)<br />
+	<div class="Abstract"></div>
+</dd>
 
-%0 Conference Proceedings
-%T Quantifying the uncertainty of Landsat tm derived energy balance parameters in the discontinuous permafrost zone: A Monte Carlo approach
-%A Johnson, A
-%A Stoy, P
-%A Ewing, SA
-%B AGU Fall Meeting Abstracts
-%D 2013
+</dl>
+</div>
+</body>
+</html>
 
-
-%0 Conference Proceedings
-%T Tracking Spatial and Temporal Changes in the Discontinuous Permafrost Zone using Multi-Resolution Analysis
-%A Johnson, A
-%A Stoy, PC
-%A Brunsell, NA
-%A Ewing, SA
-%B AGU Fall Meeting Abstracts
-%D 2012
-
-
-%0 Conference Proceedings
-%T Evapotranspiration from a winter wheat field: seasonal patterns and implications for scaling
-%A Harris, ES
-%A Johnson, A
-%A Sigler, W
-%A Ewing, SA
-%A Stoy, PC
-%B AGU Fall Meeting Abstracts
-%D 2013
-
-
-%0 Journal Article
-%T Scaling approaches for improving estimates of biogeochemical cycling in spatially heterogeneous ecosystems
-%A Stoy, Paul C
-%A Johnson, Aiden V
-%A Brunsell, Nathaniel
-%A Quaife, Tristan
-
-
-%0 Journal Article
-%T The impacts of mountain pine beetle disturbance on the energy balance of snow during the melt period
-%A Welch, Christopher M
-%A Stoy, Paul C
-%A Rains, F Aaron
-%A Johnson, Aiden V
-%A McGlynn, Brian L
-%J Hydrological Processes
-%V 30
-%N 4
-%P 588-602
 %@ 1099-1085
 %D 2016
