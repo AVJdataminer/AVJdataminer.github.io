@@ -1,10 +1,7 @@
-LinkedIn:<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aiden-johnson-5b883929"><a class="LI-simple-link" href='https://www.linkedin.com/in/aiden-johnson-5b883929?trk=profile-badge'>Aiden Johnson</a></div> . 
+ 
+<a href="https://twitter.com/aidenvjohnson?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aidenvjohnson</a><script async
 
-
-<a href="https://twitter.com/aidenvjohnson?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aidenvjohnson</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> . 
-
-
-
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aiden-johnson-5b883929"><a class="LI-simple-link" href='https://www.linkedin.com/in/aiden-johnson-5b883929?trk=profile-badge'>LinkedIn:Aiden Johnson</a></div> 
 ## Experience
 
 ### CVS Health, Woonsocket, RI
