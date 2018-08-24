@@ -4,6 +4,18 @@
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aiden-johnson-5b883929"><a class="LI-simple-link" href='https://www.linkedin.com/in/aiden-johnson-5b883929?trk=profile-badge'>LinkedIn: Aiden V. Johnson</a></div> 
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#Experience">exp</a></li>
+            <li><a href="#Education">edu</a></li>
+            <li><a href="#Scripting Projects">projects</a></li>
+            <li><a href="#Data Science Projects">port</a></li>
+            <li><a href="#thesis">dissertation</a></li>
+        </ul>
+    </div>
+</div>
+
 ## Experience
 
 ### CVS Health, Woonsocket, RI
