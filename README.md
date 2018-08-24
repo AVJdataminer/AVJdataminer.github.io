@@ -8,12 +8,12 @@
 
 ### CVS Health, Woonsocket, RI
 
-#### Data Scientist, Machine Learning Team // January 2018 - Present
+#### Data Scientist, Machine Learning Team // January 2018 - August 2018
 
-•	Develop machine learning models for Minute Clinic optimization. 
-•	Manage project planning, development, documentation and communication with Minute Clinic business partners and across the CVS organization. 
-•	Model data on Hadoop, increasing efficiency and reducing model run times. 
-•	Conduct operational machine learning models through pilot testing and validation. 
+•	Develop machine learning models for Minute Clinic optimization.   
+•	Manage project planning, development, documentation and communication with Minute Clinic business partners and across the CVS organization.   
+•	Model data on Hadoop using pyspark, increasing efficiency and reducing model run times.   
+•	Conduct operational machine learning models through pilot testing and validation.   
 
 ### Lincoln Financial Group, Hartford, CT
 
