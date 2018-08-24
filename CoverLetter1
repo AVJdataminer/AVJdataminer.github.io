@@ -1,0 +1,38 @@
+---
+size: 11pt
+draft: no
+head: Aiden V. Johnson
+    phone: '\(406\) 202-1470'
+    email: 'aiden.dataminer@gmail.com'
+
+sig:
+ include: yes
+ sign: yes
+ name: 'Aiden V. Johnson
+ post: Data Scientist
+---
+
+\today
+
+To the hiring team:
+
+This is what I do:
+• Lead the design, development, implementation and documentation of a predictive modeling solution that drive growth and value to the business.
+• Identify, develop and implement practical decision science solutions such as predictive regression modeling, decision trees and supervised and unsupervised machine learning techniques.
+
+These are the tools I use: 
+• R, Python, SQL, Tableau, + whatever gets the job done.
+
+This is how I am unique:
+• Proven flexibility and adaptability through continued skills acquistion and development. 
+• Provide technical and professional development to up and coming data scientist through mentoring for Thinkful.com.
+
+Here are some examples of my work on Github:
+• Python tool to create timecard from Google Calendar
+• R package to implement all pre-processing steps in data science projects.
+• A Model selection and documentation framework
+• Predicting sensor failure with Mxnet Neural network Model in R
+
+I welcome the opportunity to discuss my application further and thank you for considering me for this awesome opportunity for such meaningful and important work. 
+
+Sincerely,
