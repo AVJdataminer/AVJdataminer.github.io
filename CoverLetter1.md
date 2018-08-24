@@ -1,24 +1,29 @@
-![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png) 
-### Aiden V. Johnson:telephone: (406) 202-1470 :envelope: aiden.dataminer@gmail.com :page_facing_up: https://aidenvjohnson.com/ . 
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)## Aiden V. Johnson . 
+:telephone: (406) 202-1470 
+:envelope: aiden.dataminer@gmail.com 
+:page_facing_up: https://aidenvjohnson.com/  
 
-Dear Hiring team,
+Dear Hiring team,  
+
 I am writing to express my interest in your Data Scientist role. I am an experienced machine learning practitioner, with a knack for leveraging data to derive actionable information for business solutions.  
 
 This is what I do:  
 - [X]  Lead the design, development, implementation and documentation of a predictive modeling solution that drive growth and value to the business.  
 - [X]  Identify, develop and implement practical decision science solutions such as predictive regression modeling, decision trees and supervised and unsupervised machine learning techniques.  
 
+
 These are the tools I use:  
 
-•  R, Python, SQL, Tableau, + whatever gets the job done.  
+:hammer: R, Python, SQL, Tableau, + whatever gets the job done.  
 
 
 This is how I am unique: 
 
-•  Proven flexibility and adaptability through continued skills acquistion and development.   
-•  Provide technical and professional development to up and coming data scientist through mentoring for Thinkful.com.  
+- [X]  Proven flexibility and adaptability through continued skills acquistion and development.   
+- [X]  Provide technical and professional development to up and coming data scientist through mentoring for Thinkful.com.  
 
 Here are some examples of my work on Github:  
+
 • [Python tool to create timecard from Google Calendar](https://github.com/AVJdataminer/Gtools) 
   
 • [R package to implement all pre-processing steps in data science projects.](https://github.com/AVJdataminer/Squeaky) 
