@@ -1,14 +1,14 @@
 
 ### Aiden V. Johnson
-:telephone: (406) 202-1470 :envelope: aiden.dataminer@gmail.com
+:telephone: (406) 202-1470 :envelope: aiden.dataminer@gmail.com :web:aidenvjohnson.com
 
 Dear Hiring team:
 
 This is what I do:  
-\• Lead the design, development, implementation and documentation of a predictive modeling solution that drive growth and value to the business.  
+/• Lead the design, development, implementation and documentation of a predictive modeling solution that drive growth and value to the business.  
 \• Identify, develop and implement practical decision science solutions such as predictive regression modeling, decision trees and supervised and unsupervised machine learning techniques.  
 
-These are the tools I use: 
+These are the tools I use:   
 • R, Python, SQL, Tableau, + whatever gets the job done.  
 
 This is how I am unique:  
