@@ -7,15 +7,17 @@
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#Experience">exp</a></li>
-            <li><a href="#Education">edu</a></li>
-            <li><a href="#Scripting Projects">projects</a></li>
-            <li><a href="#Data Science Projects">port</a></li>
-            <li><a href="#thesis">dissertation</a></li>
+            <li><a href="#exp">Experience</a></li>
+            <li><a href="#edu">Education</a></li>
+            <li><a href="#scp">Scripting Projects</a></li>
+            <li><a href="#dsp">Data Science Projects</a></li>
+	    <li><a href="#pub">Publications</a></li>
         </ul>
     </div>
 </div>
 
+
+### <a name="exp"></a>Experience
 ## Experience
 
 ### CVS Health, Woonsocket, RI
@@ -125,7 +127,7 @@
 #### Remote Sensing Data Technician // June 2007 – December 2007
 
 ---
-
+### <a name="edu"></a>Education
 ## Education
 
 ### Montana State University, Bozeman, MT
@@ -151,8 +153,9 @@ Presentations:
 
 #### B.S. in Forest Resource Management and GIS // 2010
 
----
+---  
 
+### <a name="scp"></a>Scripting Projects
 ## Projects
 
 ### Squeaky R package for data cleaning a wrangling tasks for data science
@@ -166,6 +169,13 @@ Presentations:
 
 ---
 
+### <a name="dsp"></a>Data Science Projects
+
+
+
+---  
+
+### <a name="pub"></a>Publications
 ## Publications
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
