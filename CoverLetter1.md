@@ -1,6 +1,7 @@
-![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)## Aiden V. Johnson . 
-:telephone: (406) 202-1470 
-:envelope: aiden.dataminer@gmail.com 
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)
+## Aiden V. Johnson  
+:telephone: (406) 202-1470  
+:envelope: aiden.dataminer@gmail.com  
 :page_facing_up: https://aidenvjohnson.com/  
 
 Dear Hiring team,  
@@ -12,7 +13,7 @@ This is what I do:
 - [X]  Identify, develop and implement practical decision science solutions such as predictive regression modeling, decision trees and supervised and unsupervised machine learning techniques.  
 
 
-These are the tools I use:  
+These are what I use:  
 
 :hammer: R, Python, SQL, Tableau, + whatever gets the job done.  
 
@@ -20,7 +21,7 @@ These are the tools I use:
 This is how I am unique: 
 
 - [X]  Proven flexibility and adaptability through continued skills acquistion and development.   
-- [X]  Provide technical and professional development to up and coming data scientist through mentoring for Thinkful.com.  
+- [X]  Provide technical and professional development to up and coming data scientist through mentoring for an online data science bootcamp.  
 
 Here are some examples of my work on Github:  
 
