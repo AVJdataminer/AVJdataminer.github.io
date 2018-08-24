@@ -1,5 +1,5 @@
 
-### Aiden V. Johnson
+![### Aiden V. Johnson]https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/head_shot.jpg
 :telephone: (406) 202-1470 :envelope: aiden.dataminer@gmail.com :page_facing_up: https://aidenvjohnson.com/
 
 Dear Hiring team,
@@ -29,7 +29,7 @@ Here are some examples of my work on Github:
 I welcome the opportunity to discuss my application further and thank you for considering me for this awesome opportunity for such meaningful and important work.  
 
 Sincerely,  
-
+![]https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/Aiden%20signature.png
 
 Aiden V. Johnson  
 
