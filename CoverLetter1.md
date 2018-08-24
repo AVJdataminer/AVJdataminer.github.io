@@ -1,4 +1,5 @@
-![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png) 
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)   
+
                                     ## Aiden V. Johnson  
                            :telephone: (406) 202-1470  
                         :envelope: aiden.dataminer@gmail.com  
