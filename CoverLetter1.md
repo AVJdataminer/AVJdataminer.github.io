@@ -1,6 +1,5 @@
-  ![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)   
-    #### Aiden V. Johnson  
-    :phone: (406) 202-1470  :envelope: aiden.dataminer@gmail.com  :link: https://aidenvjohnson.com/        
+  ![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)  
+  # Aiden V. Johnson  :phone: (406) 202-1470  :envelope: aiden.dataminer@gmail.com  :link: https://aidenvjohnson.com/        
 ---  
 
 Dear Hiring Team,  
