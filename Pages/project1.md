@@ -2,7 +2,7 @@ Example toc
 ---
 layout: page
 title: publications
-description: Karl Broman's publications
+description: publications
 ---
 
 <div class="navbar">
