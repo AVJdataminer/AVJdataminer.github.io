@@ -1,7 +1,10 @@
-![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)  ## Aiden V. Johnson  
-:telephone: (406) 202-1470  
-:envelope: aiden.dataminer@gmail.com  
-:page_facing_up: https://aidenvjohnson.com/  
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png) 
+                                    ## Aiden V. Johnson  
+                           :telephone: (406) 202-1470  
+                        :envelope: aiden.dataminer@gmail.com  
+                  :page_facing_up: https://aidenvjohnson.com/  
+        
+---  
 
 Dear Hiring Team,  
 
@@ -33,7 +36,7 @@ Here are some examples of my work on Github:
 • [Predicting sensor failure with Mxnet Neural network Model in R](https://github.com/AVJdataminer)   
 
 
-I welcome the opportunity to discuss my application further and thank you for considering me for this awesome opportunity for such meaningful and important work.  
+Please feel free to contact me to discuss my application further, and thank you for considering me for this exciting position. 
 
 Sincerely,  
 ![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/Aiden%20better%20signature.png)
