@@ -29,7 +29,7 @@ Here are some examples of my work on Github:
   
 • [A Model selection and documentation framework](https://github.com/AVJdataminer/Model_Selection_Doc) 
   
-• [Predicting sensor failure with Mxnet Neural network Model in R](https://github.com/AVJdataminer)   
+• [Predicting sensor failure with Mxnet Neural network Model in R](https://github.com/AVJdataminer/Sensor)   
 
 
 Please feel free to contact me to discuss my application further, and thank you for considering me for this exciting position. 
