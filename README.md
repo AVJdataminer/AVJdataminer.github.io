@@ -20,6 +20,11 @@
 ### <a name="exp"></a>Experience
 ## Experience
 
+### Blue Orange Digital
+
+#### Data Science Engineer September 2018 - Present
+
+
 ### CVS Health, Woonsocket, RI
 
 #### Data Scientist, Machine Learning Team // January 2018 - August 2018
