@@ -4,7 +4,7 @@
 
 Dear Hiring Team,  
 
-I am writing to express my interest in your Data Scientist role. I am an experienced machine learning practitioner, with a knack for leveraging data to derive actionable information for business solutions.  
+I am writing to express my interest in your Lead Data Scientist role. I am an experienced machine learning practitioner, with a knack for leveraging data to derive actionable information for business solutions.  
 
 This is what I do:  
 - [X]  Lead the design, development, implementation, and documentation of predictive modeling solutions that drive growth and add value to your business enterprises.  
@@ -13,7 +13,7 @@ This is what I do:
 
 These are what I use:  
 
-:hammer: R, Python, SQL, Tableau.    
+:hammer: R, Python, SQL, PySpark, keras, tensorflow.    
 
 
 This is how I am unique: 
