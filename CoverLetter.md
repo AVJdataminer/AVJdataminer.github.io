@@ -2,7 +2,8 @@
   #### Aiden V. Johnson
    :phone: (406) 202-1470  
    :envelope: aiden.dataminer@gmail.com  
-  ![https://www.linkedin.com/in/aiden-v-johnson/](In-2C-34px-TM.png)  ![https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4?source=friends_link&sk=5616330d942e525a3d62282886f2109a](Screen Shot 2019-01-06 at 5.54.50 PM.png)
+  ![https://www.linkedin.com/in/aiden-v-johnson/](In-2C-34px-TM.png) 
+  ![https://medium.com/@aiden.dataminer/the-data-science-method-dsm-data-collection-organization-and-definitions-d19b6ff141c4?source=friends_link&sk=5616330d942e525a3d62282886f2109a](Screen Shot 2019-01-06 at 5.54.50 PM.png)
 
 
 ---
@@ -43,6 +44,7 @@ Here is a series I am writing on standardizing the Data Science project approach
 Please feel free to contact me to discuss my application further, and thank you for considering me for this exciting opportunity.
 
 Sincerely,
+
 ![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/Aiden%20better%20signature.png)
 
 Aiden V. Johnson
