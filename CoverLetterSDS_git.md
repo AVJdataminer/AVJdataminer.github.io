@@ -1,4 +1,4 @@
-![](mini_headshot.png)    
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/mini%20headshot.png)    
 ## Aiden V. Johnson
 :phone: (406) 202-1470  :envelope: aiden.dataminer@gmail.com  
 :scroll:  [Resume ](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/Resume_AVJ_11_19_18_KE%20edits.pdf)  :link: [LinkedIn ](https://www.linkedin.com/in/aiden-v-johnson/ ):book: [Medium Articles ](https://medium.com/@aiden.dataminer):bird:[Twitter](https://twitter.com/aidenvjohnson)
@@ -33,7 +33,7 @@ Please feel free to contact me to discuss my application further, and thank you 
 
 Sincerely,
 
-![](signature.png)
+![](https://github.com/AVJdataminer/AVJdataminer.github.io/blob/master/pdfs/Aiden%20better%20signature.png)
 
 Aiden V. Johnson
 
