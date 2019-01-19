@@ -5,7 +5,7 @@
 
 Dear Hiring Team,
 
-I am writing to express my interest in your Senior Data Scientist role. I am an experienced machine learning practitioner, with a knack for leveraging data to derive actionable information for business solutions.
+I am writing to express my interest in your Senior Quantitative Analyst role. I am an experienced machine learning practitioner, with a knack for leveraging data to derive actionable information for business solutions.
 
 This is what I do:
 - Lead the design, development, implementation, and documentation of predictive modeling solutions that drive growth and add value to your business enterprises.
