@@ -13,7 +13,7 @@ This is what I do:
 
 These are what I use:  
 
-:wrench: R, Python, SQL, PySpark, Keras, Tensorflow, Linux, AWS.
+:wrench: Python, R, SQL, PySpark, Keras, Tensorflow, Linux, AWS.
 
 
 This is how I am unique:
@@ -22,7 +22,6 @@ This is how I am unique:
 - Provide technical and professional development to aspiring data scientists via mentoring for several online data science bootcamps.
 
 Here are some examples of my data work on [Github](https://github.com/AVJdataminer/):  
-•  [Data Science Project Review Framework](https://github.com/AVJdataminer/Model_Review_Methods)  
 • [Callable Random Forest Regression Model in python](https://github.com/AVJdataminer/WH)  
 • [Predicting sensor failure with Mxnet Neural Network Model in R](https://github.com/AVJdataminer/Sensor)  
 • [R package to implement all pre-processing steps in data science projects.](https://github.com/AVJdataminer/Squeaky)    
